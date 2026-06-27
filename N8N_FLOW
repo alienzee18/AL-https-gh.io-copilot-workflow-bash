@@ -1,0 +1,3 @@
+# Terminal 1: CLI code runs the backend
+cd packages/cli
+pnpm dev
